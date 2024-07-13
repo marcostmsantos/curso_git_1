@@ -1,1 +1,7 @@
 repositorio 001
+a
+a
+b
+b
+c
+c
